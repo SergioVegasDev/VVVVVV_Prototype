@@ -4,11 +4,11 @@
 ## BuildWeb
 https://sergiovegas.itch.io/vvvvvv-prototype
 
-## Inputs
+## English
 
-S'utilitzen tant les tecles wasd com les fletxes per moure's, per canviar de gravetat es pot fer amb la fletxa cap a dalt o amb la w.
-El executable esta dins de la carpeta BuildGame.
+A small project to learn the basics of Unity and game programming, essentially a recreation of the mythical VVVVVV. The texts are currently in Spanish, but my idea is to upload a version with an English option.
 
-## Descripció joc
+## Español
+Un pequeño proyecto para aprender lo básico de Unity y de la programación de videojuegos, básicamente una recreación del mítico VVVVVV. Los textos están actualmente en español, pero mi idea es subir una versión con opción en inglés.
 
-L'ambientació el joc és futurista, galàctica i sci-fi. Bàsicament, tracta d'un astronauta que ha fugit d'uns perseguidors i ha de trobar al seu company.
+
