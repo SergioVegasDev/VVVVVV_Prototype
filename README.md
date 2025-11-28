@@ -6,9 +6,7 @@ https://sergiovegas.itch.io/vvvvvv-prototype
 
 ## English
 
-A small project to learn the basics of Unity and game programming, essentially a recreation of the mythical VVVVVV. The texts are currently in Spanish, but my idea is to upload a version with an English option.
+In this project, my intention was to recreate the mythical game VVVVVV by applying the SOLID principles. This is my first project with Unity, so it still has areas to improve. Little by little, I will try to add and/or modify certain elements to enhance the player experience.
 
 ## Español
-Un pequeño proyecto para aprender lo básico de Unity y de la programación de videojuegos, básicamente una recreación del mítico VVVVVV. Los textos están actualmente en español, pero mi idea es subir una versión con opción en inglés.
-
-
+En este proyecto mi intención era recrear el mítico juego VVVVVV aplicando los principios SOLID. Es mi primer proyecto con Unity, así que todavía tiene aspectos por mejorar. Poco a poco intentaré añadir y/o modificar ciertas cosas para enriquecer la experiencia del jugador.
